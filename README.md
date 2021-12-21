@@ -1,5 +1,5 @@
 # i-2
-1-100内奇数
+1-100内奇数（3种）
 #define _CRT_SECURE_NO_WARNINGS
 #include<stdio.h>
 int main()
